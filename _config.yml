@@ -114,7 +114,7 @@ author:
   email            : "lost731@naver.com"
   links:
     - label: "Email"
-      icon: "lost731@naver.com"
+      icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
