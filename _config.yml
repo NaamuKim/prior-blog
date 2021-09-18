@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "김나무"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "더 나은 서비스를 제공하는 사람이 되자!"
+  location         : "Ilsandong-gu, Goyang-si, Gyeonggi-do, Republic of Korea"
+  email            : "lost731@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
