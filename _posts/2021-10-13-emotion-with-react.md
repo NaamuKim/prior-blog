@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "emotion과 react를 함께 사용하기"
 subtitle: "styled-component에 state와 jsx props 연결하기"
 date: 2021-10-14 23:00
