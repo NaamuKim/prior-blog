@@ -14,7 +14,7 @@ tag: [Tips, Github io, Notion]
 
 ### npm trends를 찾아보면 emotion이 styled-components의 다운로드 수를 앞서고 있는 것을 알 수 있다.
 
-![Untitled.png](assets/images/posts/2021-10-14/Untitled.png)
+![Untitled.png](../assets/images/posts/2021-10-14/Untitled.png)
 
 ### 실제로 emotion을 이용해본 결과 styled-components를 사용할 줄 아시는 분들이라면 금방 익히실 수 있을 거라고 생각한다.
 
@@ -105,7 +105,7 @@ const onCLickMenu = useCallback(() => {
 
 아래 콜백함수는 메뉴가 열려있으면 메뉴 버튼을 눌렀을 때 닫고  닫혀있으면 메뉴 버튼을 눌렀을 때 여는 코드이다.
 
-![ezgif.com-gif-maker.gif](assets/images/posts/2021-10-14/ezgif.com-gif-maker.gif)
+![ezgif.com-gif-maker.gif](../assets/images/posts/2021-10-14/ezgif.com-gif-maker.gif)
 
 이것을 구현하기 위해서
 
