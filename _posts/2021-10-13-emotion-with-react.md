@@ -2,9 +2,8 @@
 layout: post
 title: "emotion과 react를 함께 사용하기"
 subtitle: "styled-component에 state와 jsx props 연결하기"
-date: 2020-03-02 17:00
-background: 
-tag: [Tips, Github io, Notion]
+date: 2021-10-14 23:00
+tag: [react, emotion, 반응형, prop, styled]
 ---
 # emotion과 react-component 같이 쓰기
 
